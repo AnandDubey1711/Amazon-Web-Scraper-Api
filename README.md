@@ -1,4 +1,7 @@
 ![Amazon_Web_Scraper_Api](https://user-images.githubusercontent.com/110890327/200114155-43a7374a-0a2a-4a16-95bf-01d7d405b374.png)
+
+
+
 This API helps user in fetching product details, search products, productID and offers on any product on the Amazon MarketPlace. This API could be used to build your own e-commerce project based website or your proffesional website. The data is fetched in the form of JSON.
 This API is published on the RapidAPI hub as freemium API and you don't need any API key to use it
 
